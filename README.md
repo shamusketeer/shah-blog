@@ -37,6 +37,17 @@ By clicking on the 'Add Post' button, users can access a modal that allows them 
 - Guest users view the content
 
 ## Setting up the project
+To run this project, you need to create a keys.js file in the root directory of the project and add your Firebase API key to it.
+
+1. Create a file named keys.js in the root directory of the project.
+2. Open the keys.js file and add the following code:
+
+   export const apiKey = "YOUR_FIREBASE_API_KEY"
+
+3. Replace YOUR_FIREBASE_API_KEY with your actual Firebase API key.
+4. Save the keys.js file.
+
+Once you have created the keys.js file and added your Firebase API key to it, you can run the project.
 
 ## Here are some common commands
 
